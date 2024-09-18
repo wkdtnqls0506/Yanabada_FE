@@ -3,11 +3,13 @@
 ![1](https://github.com/Yanabada/Yanabada_FE/assets/93538221/db01633c-5200-4964-af6d-cd705a54391d)
 
 ✨ 무료 예약 취소 불가한 숙소의 양도/거래 플랫폼 "Yanabada" ✨  
+<br>
 
 
 ## 프로젝트 소개
 
 '야놀자' 와 '아나바다' 의 합성어로 취소 불가 상품에 대해 판매자는 수수료를 절약하고, 구매자는 값싼 가격에 구매할 수 있는, 야놀자와 숙박업주 또한 취소 건의 판매전환으로 인한 이득을 얻기 위해 기획한 야놀자의 패밀리 서비스
+<br>
 
 ## 팀원 및 구현 기능
 
@@ -99,15 +101,12 @@ FE 장수빈
 </td>
 </tr>
 </table>
-
-## 테스트 아이디 / 비밀번호
-
-- 구매자: [buyer1@google.com](mailto:buyer1@google.com) / password123!
-- 판매자: [test@naver.com](mailto:test@naver.com) / password123!
+<br>
 
 ## 개발 기간
 
 2024.01.07 - 2024.01.28
+<br>
 
 ## 페이지 별 디자인 및 기능
 
